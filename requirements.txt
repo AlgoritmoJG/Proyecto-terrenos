@@ -1,0 +1,4 @@
+Flask==3.1.3
+SQLAlchemy==2.0.48
+oracledb==3.4.2
+python-dotenv==1.2.2
